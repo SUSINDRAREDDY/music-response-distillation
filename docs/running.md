@@ -33,11 +33,11 @@ To prepare a new plan (local only):
 
 ```sh
 python data.py
-python prepare_run.py --all-train
+python prepare_run.py --all-train --eval-samples 105
 ```
 
-New plans default to a 10-prompt validation pilot; the reported run used all 105
-validation prompts. Reproducing its evaluation requires that full set. Follow the
+Without `--eval-samples 105`, new plans default to a 10-prompt validation pilot.
+The command above selects the full validation set used for the reported results. Follow the
 printed run environment variables. Modal execution requires your own authenticated
 workspace, `wandb` secret, and teacher auth volume. `modal deploy inference.py`,
 `modal deploy artifacts.py`, and `modal run --detach pipeline.py` execute cloud work

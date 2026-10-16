@@ -1,0 +1,72 @@
+{
+  "run_id": "49355152800c",
+  "worker_invocations": [
+    {
+      "stage": "training",
+      "gpu": "H100",
+      "startedAt": "2026-10-10T20:33:13.264703+00:00",
+      "updatedAt": "2026-10-10T21:14:34.325027+00:00",
+      "elapsedSeconds": 2481.0603506,
+      "endedAt": "2026-10-10T21:14:34.325027+00:00"
+    },
+    {
+      "stage": "training",
+      "gpu": "H100",
+      "startedAt": "2026-10-10T19:49:07.428151+00:00",
+      "updatedAt": "2026-10-10T20:30:40.953053+00:00",
+      "elapsedSeconds": 2493.5249317909997,
+      "endedAt": "2026-10-10T20:30:40.953053+00:00"
+    },
+    {
+      "stage": "inference",
+      "gpu": "H100",
+      "startedAt": "2026-10-10T21:14:46.748406+00:00",
+      "updatedAt": "2026-10-11T01:50:19.792564+00:00",
+      "elapsedSeconds": 16533.044190254997,
+      "endedAt": "2026-10-11T01:50:19.792564+00:00"
+    }
+  ],
+  "training_worker_seconds": 4974.585282391,
+  "inference_worker_seconds": 16533.044190254997,
+  "trainer_metrics": {
+    "train_runtime": 2402.8544,
+    "train_samples_per_second": 0.758,
+    "train_steps_per_second": 0.047,
+    "total_flos": 6.858577058790113e+17,
+    "train_loss": 0.12016418327887853,
+    "epoch": 3.0
+  },
+  "optimizer_steps": 114,
+  "peak_cuda_allocated_bytes": 48069243904,
+  "peak_cuda_reserved_bytes": 51860471808,
+  "inference": {
+    "vllm": "0.31.0",
+    "torch": "2.13.0+cu130",
+    "gpu": "NVIDIA H100 80GB HBM3",
+    "startup_seconds": 354.122581956
+  },
+  "inference_settings": {
+    "dtype": "bfloat16",
+    "quantization": "fp8_per_tensor",
+    "enable_lora": true,
+    "max_lora_rank": 16,
+    "max_loras": 1,
+    "max_cpu_loras": 3,
+    "gpu_memory_utilization": 0.9,
+    "max_model_len": 12288,
+    "max_num_seqs": 64,
+    "compilation_config": {
+      "max_cudagraph_capture_size": 64
+    },
+    "max_num_batched_tokens": 4096,
+    "enable_prefix_caching": true,
+    "mamba_cache_mode": "align",
+    "generation_config": "vllm",
+    "seed": 42
+  },
+  "measurement_notes": [
+    "Worker times include model loading and waiting within the decorated invocation; exclude container provisioning before function entry.",
+    "Training worker total includes both recorded invocations; trainer metrics are from the final saved result.",
+    "The recorded inference invocation begins after both training invocations end."
+  ]
+}
