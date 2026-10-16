@@ -8,3 +8,5 @@ tools/
 __pycache__/
 .pytest_cache/
 *.pyc
+.ruff_cache/
+.DS_Store

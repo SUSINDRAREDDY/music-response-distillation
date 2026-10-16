@@ -4,7 +4,7 @@ import threading
 from pathlib import Path
 
 # Load only the pure scheduling helpers; importing inference configures Modal images.
-module = ast.parse((Path(__file__).resolve().parent / "inference.py").read_text())
+module = ast.parse((Path(__file__).resolve().parents[1] / "inference.py").read_text())
 helpers = ast.Module(
     body=[
         node
@@ -125,15 +125,15 @@ class EpochResultsTest(unittest.TestCase):
         import json, math, tempfile
         from pathlib import Path
 
-        source = ast.parse((Path(__file__).resolve().parent / "pipeline.py").read_text())
+        source = ast.parse((Path(__file__).resolve().parents[1] / "pipeline.py").read_text())
         fn = next(
             node
             for node in source.body
             if isinstance(node, ast.FunctionDef) and node.name == "completed_training"
         )
-        env = {"json": json, "math": math, "ROOT": Path(__file__).resolve().parent}
+        env = {"json": json, "math": math, "ROOT": Path(__file__).resolve().parents[1]}
         exec(compile(ast.Module(body=[fn], type_ignores=[]), "pipeline.py", "exec"), env)
-        config = json.loads((Path(__file__).resolve().parent / "config.json").read_text())
+        config = json.loads((Path(__file__).resolve().parents[1] / "config.json").read_text())
         with tempfile.TemporaryDirectory() as tmp:
             out = Path(tmp)
             (out / "plan.json").write_text(json.dumps({"run_id": "saved", "epochs": 3}))
@@ -167,7 +167,7 @@ class EpochResultsTest(unittest.TestCase):
         from types import SimpleNamespace
         from pathlib import Path
 
-        source = ast.parse((Path(__file__).resolve().parent / "pipeline.py").read_text())
+        source = ast.parse((Path(__file__).resolve().parents[1] / "pipeline.py").read_text())
         trainer = next(
             node
             for node in source.body
@@ -287,7 +287,7 @@ class EpochResultsTest(unittest.TestCase):
         import json, tempfile
         from types import SimpleNamespace
 
-        source = ast.parse((Path(__file__).resolve().parent / "sft.py").read_text())
+        source = ast.parse((Path(__file__).resolve().parents[1] / "sft.py").read_text())
         helper = next(
             node
             for node in source.body

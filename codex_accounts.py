@@ -95,7 +95,7 @@ class AccountPool:
                 if self.server is None:
                     try:
                         self.server = self.factory(name)
-                    except Exception as exc:
+                    except Exception:
                         self.exhausted.add(name)
                         print("Teacher provider unavailable; trying the next configured account.", flush=True)
                         continue

@@ -1,13 +1,10 @@
 import json
-import sys
-from pathlib import Path
 
 import pytest
 
-sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
-from data import ROOT, load_tasks, split_for  # noqa: E402
-from reward import check_scorer, music_reward  # noqa: E402
-from vendor.xiaomi_music_scorer import compute_score  # noqa: E402
+from data import ROOT, load_tasks, split_for
+from reward import check_scorer, music_reward
+from vendor.xiaomi_music_scorer import compute_score
 
 
 def test_reward_matches_xiaomi():

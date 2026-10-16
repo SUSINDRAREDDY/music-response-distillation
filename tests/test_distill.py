@@ -1,11 +1,8 @@
-import sys
-from pathlib import Path
 
 
-sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
-from teacher import verify  # noqa: E402
-from data import ROOT  # noqa: E402
-from reward import music_reward  # noqa: E402
+from teacher import verify
+from data import ROOT
+from reward import music_reward
 
 
 def test_teacher_filter_rejects_wrong_length_and_voice_count():

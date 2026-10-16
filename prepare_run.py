@@ -30,7 +30,6 @@ def prepare(seed=None, samples=50, all_train=False, eval_samples=10):
         "teacher_attempts": 1,
         "teacher_concurrency": 10,
         "teacher_validation": False,
-        "validation_loss_ids": [],
         "stream_evaluation": True,
         "evaluation_frequency": "epoch",
         "training_reward_scope": "fixed_training_set",

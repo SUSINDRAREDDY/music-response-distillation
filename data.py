@@ -87,10 +87,6 @@ def load_tasks(directory, split, limit=None, length=None):
     return rows[:limit] if limit else rows
 
 
-if __name__ == "__main__":
-    prepare()
-
-
 def training_data_path(directory, split="train"):
     filtered = Path(directory) / f"{split}-sft.jsonl"
     return filtered if filtered.exists() else Path(directory) / f"{split}.jsonl"
@@ -108,3 +104,7 @@ def filter_training_rows(rows, tokenizer, max_length, template):
         else:
             accepted.append(row)
     return accepted, excluded
+
+
+if __name__ == "__main__":
+    prepare()

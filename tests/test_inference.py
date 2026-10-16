@@ -5,8 +5,7 @@ from types import SimpleNamespace
 
 import pytest
 
-sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
-from inference import check_adapter, validate_adapter, validate_outputs  # noqa: E402
+from inference import check_adapter, validate_adapter, validate_outputs
 
 
 def output(tokens, logprobs=None):
