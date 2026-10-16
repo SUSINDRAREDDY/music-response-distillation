@@ -220,15 +220,14 @@ to 10 validation prompts; use `--eval-samples 105` for the full validation parti
 | `evaluation/` | Published measurements and training IDs |
 | `tests/`, `vendor/` | Regression tests and pinned upstream scorer |
 
-## Attribution and reproducibility
+## License and attribution
 
-Source prompts: [XiaomiMiMo/MiMo-V2.6-RL-oss](https://huggingface.co/datasets/XiaomiMiMo/MiMo-V2.6-RL-oss),
-revision `639865fd3374018d6cb29b9fb82dd531406fcf5f`. The project's split is deterministic;
-it is not an assertion of official upstream train/validation/test partitions.
+Code is released under [Apache-2.0](LICENSE). Source prompts come from
+[XiaomiMiMo/MiMo-V2.6-RL-oss](https://huggingface.co/datasets/XiaomiMiMo/MiMo-V2.6-RL-oss),
+whose dataset card declares Apache-2.0. The included Xiaomi music scorer retains its
+[original license](vendor/LICENSE) and [revision manifest](vendor/manifest.json).
 
-The Xiaomi music scorer is pinned at `a2ad9f6160b03ff2d47e59832bfb6b289f37c917`, with
-its original license and checksum manifest under `vendor/`. See [LICENSE](LICENSE),
-[NOTICE](NOTICE), and the dataset card for attribution and applicable usage terms.
-
-Reported run: `music-20261009-150609-493551` (`49355152800c`). Credentials, account logs,
-private sessions, model weights, and compiled tools are not included in this repository.
+See [NOTICE](NOTICE) for source credits and the
+[dataset card](https://huggingface.co/datasets/suunny/music-teacher-distillation#license-and-attribution)
+for dataset licensing. Licenses do not override applicable third-party or provider
+terms; unrestricted reuse of teacher outputs has not been established.
