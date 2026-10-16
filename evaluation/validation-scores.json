@@ -1,0 +1,3362 @@
+[
+  {
+    "promptId": "gK-0048",
+    "split": "validation",
+    "version": "step-0",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice 1 exceeded requested 56 bars (65 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0476",
+    "split": "validation",
+    "version": "step-0",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice 1 exceeded requested 56 bars (65 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0030",
+    "split": "validation",
+    "version": "step-0",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Repeated MIDI directives without note progress (64 lines); aborted generation loop"
+  },
+  {
+    "promptId": "gK-0146",
+    "split": "validation",
+    "version": "step-0",
+    "reward": 0.483,
+    "accepted": false,
+    "reason": "Requested 32 bars per voice; counted 1: 28, 2: 32"
+  },
+  {
+    "promptId": "gK-0718",
+    "split": "validation",
+    "version": "step-0",
+    "reward": 0.637,
+    "accepted": false,
+    "reason": "Requested 56 bars per voice; counted 1: 28, 2: 28, 3: 28"
+  },
+  {
+    "promptId": "gK-0714",
+    "split": "validation",
+    "version": "step-0",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice 1 exceeded requested 40 bars (53 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0432",
+    "split": "validation",
+    "version": "step-0",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice 1 exceeded requested 48 bars (65 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-1095",
+    "split": "validation",
+    "version": "step-0",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice 1 exceeded requested 80 bars (90 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0545",
+    "split": "validation",
+    "version": "step-0",
+    "reward": 0.316,
+    "accepted": false,
+    "reason": "Invalid bar durations"
+  },
+  {
+    "promptId": "gK-0442",
+    "split": "validation",
+    "version": "step-0",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice 1 exceeded requested 40 bars (53 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0473",
+    "split": "validation",
+    "version": "step-0",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice 1 exceeded requested 80 bars (92 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0322",
+    "split": "validation",
+    "version": "step-0",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice default exceeded requested 40 bars (54 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0736",
+    "split": "validation",
+    "version": "step-0",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice 1 exceeded requested 48 bars (64 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0764",
+    "split": "validation",
+    "version": "step-0",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice 1 exceeded requested 48 bars (60 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-1120",
+    "split": "validation",
+    "version": "step-0",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice 1 exceeded requested 56 bars (69 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0058",
+    "split": "validation",
+    "version": "step-0",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Repeated MIDI directives without note progress (64 lines); aborted generation loop"
+  },
+  {
+    "promptId": "gK-0809",
+    "split": "validation",
+    "version": "step-0",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice 1 exceeded requested 88 bars (103 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0080",
+    "split": "validation",
+    "version": "step-0",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice 1 exceeded requested 40 bars (56 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0009",
+    "split": "validation",
+    "version": "step-0",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice 1 exceeded requested 80 bars (90 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0300",
+    "split": "validation",
+    "version": "step-0",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "No positive verifier reward; Requested 48 bars per voice; counted 1: 0, 2: 0"
+  },
+  {
+    "promptId": "gK-0814",
+    "split": "validation",
+    "version": "step-0",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice 1 exceeded requested 40 bars (53 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0876",
+    "split": "validation",
+    "version": "step-0",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "No positive verifier reward; ABC syntax errors; Invalid bar durations"
+  },
+  {
+    "promptId": "gK-0863",
+    "split": "validation",
+    "version": "step-0",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "No positive verifier reward; Invalid bar durations; Requested 96 bars per voice; counted 1: 52, 2: 44, 3: 44, 4: 44"
+  },
+  {
+    "promptId": "gK-0725",
+    "split": "validation",
+    "version": "step-0",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "No positive verifier reward; Invalid bar durations; Requested 80 bars per voice; counted 1: 69, 2: 69, 3: 69"
+  },
+  {
+    "promptId": "gK-0706",
+    "split": "validation",
+    "version": "step-0",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "No positive verifier reward; ABC syntax errors; Invalid bar durations; Requested 56 bars per voice; counted 1: 32, 2: 56, 3: 56"
+  },
+  {
+    "promptId": "gK-0236",
+    "split": "validation",
+    "version": "step-0",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "No positive verifier reward; Requested 4 voices; found 2; Requested 48 bars per voice; counted 1: 0, 2: 0"
+  },
+  {
+    "promptId": "gK-0417",
+    "split": "validation",
+    "version": "step-0",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice 1 exceeded requested 88 bars (100 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0974",
+    "split": "validation",
+    "version": "step-0",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "No positive verifier reward; ABC syntax errors; Requested 4 voices; found 3; Requested 48 bars per voice; counted 1: 0, 2: 0, 3: 0"
+  },
+  {
+    "promptId": "gK-0939",
+    "split": "validation",
+    "version": "step-0",
+    "reward": 0.39899999999999997,
+    "accepted": false,
+    "reason": "Invalid bar durations; Requested 72 bars per voice; counted 1: 64, 2: 48, 3: 40, 4: 40"
+  },
+  {
+    "promptId": "gK-0542",
+    "split": "validation",
+    "version": "step-0",
+    "reward": 0.174,
+    "accepted": true,
+    "reason": null
+  },
+  {
+    "promptId": "gK-0917",
+    "split": "validation",
+    "version": "step-0",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "No positive verifier reward; ABC syntax errors; Invalid bar durations; Requested 96 bars per voice; counted 1: 96, 2: 64, 3: 88, 4: 68"
+  },
+  {
+    "promptId": "gK-0283",
+    "split": "validation",
+    "version": "step-0",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice 1 exceeded requested 64 bars (80 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0348",
+    "split": "validation",
+    "version": "step-0",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Repeated MIDI directives without note progress (64 lines); aborted generation loop"
+  },
+  {
+    "promptId": "gK-0232",
+    "split": "validation",
+    "version": "step-0",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "No positive verifier reward; Requested 40 bars per voice; counted 1: 0, 2: 0, 3: 0"
+  },
+  {
+    "promptId": "gK-0135",
+    "split": "validation",
+    "version": "step-0",
+    "reward": 0.29100000000000004,
+    "accepted": false,
+    "reason": "Requested 2 voices; found 1; Requested 64 bars per voice; counted 1: 76"
+  },
+  {
+    "promptId": "gK-1054",
+    "split": "validation",
+    "version": "step-0",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice 3 exceeded requested 32 bars (46 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0284",
+    "split": "validation",
+    "version": "step-0",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "No positive verifier reward; ABC syntax errors; Requested 40 bars per voice; counted 1: 45, 2: 45; Repeats are not allowed"
+  },
+  {
+    "promptId": "gK-0163",
+    "split": "validation",
+    "version": "step-0",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice 1 exceeded requested 72 bars (96 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0598",
+    "split": "validation",
+    "version": "step-0",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice 1 exceeded requested 48 bars (61 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-1164",
+    "split": "validation",
+    "version": "step-0",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "No positive verifier reward; ABC syntax errors; Invalid bar durations; Requested 32 bars per voice; counted 1: 33, 2: 33, 3: 33, 4: 33; Repeats are not allowed"
+  },
+  {
+    "promptId": "gK-0820",
+    "split": "validation",
+    "version": "step-0",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice 1 exceeded requested 48 bars (60 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0119",
+    "split": "validation",
+    "version": "step-0",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice 2 exceeded requested 72 bars (81 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0617",
+    "split": "validation",
+    "version": "step-0",
+    "reward": 0.607,
+    "accepted": false,
+    "reason": "Invalid bar durations"
+  },
+  {
+    "promptId": "gK-0661",
+    "split": "validation",
+    "version": "step-0",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "No positive verifier reward; ABC syntax errors; Requested 64 bars per voice; counted 1: 65, 2: 64; Repeats are not allowed"
+  },
+  {
+    "promptId": "gK-0780",
+    "split": "validation",
+    "version": "step-0",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice 1 exceeded requested 48 bars (64 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0440",
+    "split": "validation",
+    "version": "step-0",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice 1 exceeded requested 48 bars (61 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0509",
+    "split": "validation",
+    "version": "step-0",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "No positive verifier reward; Invalid bar durations; Requested 6 voices; found 8; Requested 96 bars per voice; counted 1: 92, 2: 92, 3: 92, 4: 92, 5: 92, 6: 92, 7: 92, 8: 92"
+  },
+  {
+    "promptId": "gK-0162",
+    "split": "validation",
+    "version": "step-0",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice 1 exceeded requested 40 bars (60 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0251",
+    "split": "validation",
+    "version": "step-0",
+    "reward": 0.335,
+    "accepted": false,
+    "reason": "Requested 4 voices; found 2; Requested 64 bars per voice; counted 1: 36, 2: 36"
+  },
+  {
+    "promptId": "gK-0129",
+    "split": "validation",
+    "version": "step-0",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice 1 exceeded requested 96 bars (109 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-1156",
+    "split": "validation",
+    "version": "step-0",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "No positive verifier reward; Requested 5 voices; found 0"
+  },
+  {
+    "promptId": "gK-0727",
+    "split": "validation",
+    "version": "step-0",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "No positive verifier reward; Invalid bar durations; Requested 72 bars per voice; counted 1: 76, 2: 76, 3: 76"
+  },
+  {
+    "promptId": "gK-0755",
+    "split": "validation",
+    "version": "step-0",
+    "reward": 0.331,
+    "accepted": false,
+    "reason": "Requested 64 bars per voice; counted 1: 40, 2: 40, 3: 40"
+  },
+  {
+    "promptId": "gK-0219",
+    "split": "validation",
+    "version": "step-0",
+    "reward": 0.6509999999999999,
+    "accepted": false,
+    "reason": "Requested 88 bars per voice; counted 1: 68, 2: 76, 3: 84"
+  },
+  {
+    "promptId": "gK-0907",
+    "split": "validation",
+    "version": "step-0",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "No positive verifier reward; Invalid bar durations"
+  },
+  {
+    "promptId": "gK-0450",
+    "split": "validation",
+    "version": "step-0",
+    "reward": 0.369,
+    "accepted": false,
+    "reason": "Requested 40 bars per voice; counted 1: 32, 2: 32, 3: 32, 4: 32, 5: 32"
+  },
+  {
+    "promptId": "gK-0731",
+    "split": "validation",
+    "version": "step-0",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "No positive verifier reward; ABC syntax errors; Requested 72 bars per voice; counted 1: 98, 2: 80, 3: 62; Repeats are not allowed"
+  },
+  {
+    "promptId": "gK-0816",
+    "split": "validation",
+    "version": "step-0",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice 1 exceeded requested 48 bars (57 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0523",
+    "split": "validation",
+    "version": "step-0",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice 1 exceeded requested 72 bars (84 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0395",
+    "split": "validation",
+    "version": "step-0",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "No positive verifier reward; ABC syntax errors; Invalid bar durations"
+  },
+  {
+    "promptId": "gK-0290",
+    "split": "validation",
+    "version": "step-0",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice 1 exceeded requested 32 bars (41 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0628",
+    "split": "validation",
+    "version": "step-0",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "No positive verifier reward; ABC syntax errors; Invalid bar durations; Requested 48 bars per voice; counted 1: 48, 2: 47; Repeats are not allowed"
+  },
+  {
+    "promptId": "gK-1141",
+    "split": "validation",
+    "version": "step-0",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice 1 exceeded requested 96 bars (105 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0982",
+    "split": "validation",
+    "version": "step-0",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "No positive verifier reward; ABC syntax errors; Requested 6 voices; found 8; Requested 48 bars per voice; counted Sax1: 0, Sax2: 0, Tpt1: 0, Tpt2: 0, Tbn: 0, Pno: 0, B: 0, D: 0"
+  },
+  {
+    "promptId": "gK-1086",
+    "split": "validation",
+    "version": "step-0",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice 1 exceeded requested 56 bars (65 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-1028",
+    "split": "validation",
+    "version": "step-0",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "No positive verifier reward; ABC syntax errors; Requested 48 bars per voice; counted 1: 0, 2: 0, 3: 0, 4: 0, 5: 0"
+  },
+  {
+    "promptId": "gK-0507",
+    "split": "validation",
+    "version": "step-0",
+    "reward": 0.35200000000000004,
+    "accepted": false,
+    "reason": "Requested 6 voices; found 9"
+  },
+  {
+    "promptId": "gK-0792",
+    "split": "validation",
+    "version": "step-0",
+    "reward": 0.607,
+    "accepted": false,
+    "reason": "Requested 56 bars per voice; counted 1: 64, 2: 64, 3: 64"
+  },
+  {
+    "promptId": "gK-0428",
+    "split": "validation",
+    "version": "step-0",
+    "reward": 0.405,
+    "accepted": false,
+    "reason": "Requested 32 bars per voice; counted 1: 16, 2: 16, 3: 16, 4: 16"
+  },
+  {
+    "promptId": "gK-0042",
+    "split": "validation",
+    "version": "step-0",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice 1 exceeded requested 56 bars (65 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0437",
+    "split": "validation",
+    "version": "step-0",
+    "reward": 0.282,
+    "accepted": false,
+    "reason": "Requested 96 bars per voice; counted 1: 52, 2: 52, 3: 52, 4: 52"
+  },
+  {
+    "promptId": "gK-0335",
+    "split": "validation",
+    "version": "step-0",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice default exceeded requested 64 bars (81 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0887",
+    "split": "validation",
+    "version": "step-0",
+    "reward": 0.496,
+    "accepted": true,
+    "reason": null
+  },
+  {
+    "promptId": "gK-0015",
+    "split": "validation",
+    "version": "step-0",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "No positive verifier reward; Invalid bar durations; Requested 2 voices; found 1"
+  },
+  {
+    "promptId": "gK-0303",
+    "split": "validation",
+    "version": "step-0",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "No positive verifier reward; Requested 96 bars per voice; counted 1: 0, 2: 0"
+  },
+  {
+    "promptId": "gK-0801",
+    "split": "validation",
+    "version": "step-0",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice 1 exceeded requested 80 bars (94 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0085",
+    "split": "validation",
+    "version": "step-0",
+    "reward": 0.42,
+    "accepted": false,
+    "reason": "Requested 80 bars per voice; counted 1: 63, 2: 63"
+  },
+  {
+    "promptId": "gK-0020",
+    "split": "validation",
+    "version": "step-0",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "No positive verifier reward; Requested 2 voices; found 1; Requested 48 bars per voice; counted 1: 0"
+  },
+  {
+    "promptId": "gK-0831",
+    "split": "validation",
+    "version": "step-0",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice default exceeded requested 72 bars (81 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0047",
+    "split": "validation",
+    "version": "step-0",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "No positive verifier reward; ABC syntax errors; Invalid bar durations; Requested 88 bars per voice; counted 1: 64, 2: 64"
+  },
+  {
+    "promptId": "gK-0749",
+    "split": "validation",
+    "version": "step-0",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice 1 exceeded requested 80 bars (92 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0724",
+    "split": "validation",
+    "version": "step-0",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "No positive verifier reward; Requested 3 voices; found 0"
+  },
+  {
+    "promptId": "gK-1074",
+    "split": "validation",
+    "version": "step-0",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "No positive verifier reward; ABC syntax errors; Requested 5 voices; found 0"
+  },
+  {
+    "promptId": "gK-1099",
+    "split": "validation",
+    "version": "step-0",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "No positive verifier reward; Requested 64 bars per voice; counted 1: 0, 2: 0"
+  },
+  {
+    "promptId": "gK-0231",
+    "split": "validation",
+    "version": "step-0",
+    "reward": 0.479,
+    "accepted": true,
+    "reason": null
+  },
+  {
+    "promptId": "gK-1130",
+    "split": "validation",
+    "version": "step-0",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "No positive verifier reward; Requested 4 voices; found 0"
+  },
+  {
+    "promptId": "gK-0893",
+    "split": "validation",
+    "version": "step-0",
+    "reward": 0.507,
+    "accepted": true,
+    "reason": null
+  },
+  {
+    "promptId": "gK-0243",
+    "split": "validation",
+    "version": "step-0",
+    "reward": 0.611,
+    "accepted": true,
+    "reason": null
+  },
+  {
+    "promptId": "gK-1027",
+    "split": "validation",
+    "version": "step-0",
+    "reward": 0.179,
+    "accepted": false,
+    "reason": "Requested 64 bars per voice; counted 1: 8, 2: 8, 3: 8, 4: 8, 5: 7"
+  },
+  {
+    "promptId": "gK-0007",
+    "split": "validation",
+    "version": "step-0",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "No positive verifier reward; ABC syntax errors; Requested 2 voices; found 1; Requested 72 bars per voice; counted default: 30"
+  },
+  {
+    "promptId": "gK-0327",
+    "split": "validation",
+    "version": "step-0",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "No positive verifier reward; ABC syntax errors; Invalid bar durations; Requested 72 bars per voice; counted 1: 81, 2: 72"
+  },
+  {
+    "promptId": "gK-0274",
+    "split": "validation",
+    "version": "step-0",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "No positive verifier reward; Requested 2 voices; found 1; Requested 56 bars per voice; counted 1: 0"
+  },
+  {
+    "promptId": "gK-0188",
+    "split": "validation",
+    "version": "step-0",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "No positive verifier reward; Requested 48 bars per voice; counted 1: 0, 2: 0"
+  },
+  {
+    "promptId": "gK-0621",
+    "split": "validation",
+    "version": "step-0",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "No positive verifier reward; Invalid bar durations; Requested 72 bars per voice; counted 1: 60, 2: 84"
+  },
+  {
+    "promptId": "gK-0252",
+    "split": "validation",
+    "version": "step-0",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "No positive verifier reward; Requested 40 bars per voice; counted 1: 0, 2: 0"
+  },
+  {
+    "promptId": "gK-0451",
+    "split": "validation",
+    "version": "step-0",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "No positive verifier reward; ABC syntax errors; Requested 88 bars per voice; counted T1: 0, T2: 0, Hn: 0, Tbn: 0, Tba: 0"
+  },
+  {
+    "promptId": "gK-0832",
+    "split": "validation",
+    "version": "step-0",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "No positive verifier reward; Requested 48 bars per voice; counted 1: 0, 2: 0"
+  },
+  {
+    "promptId": "gK-0386",
+    "split": "validation",
+    "version": "step-0",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "No positive verifier reward; Requested 56 bars per voice; counted 1: 0, 2: 0"
+  },
+  {
+    "promptId": "gK-0308",
+    "split": "validation",
+    "version": "step-0",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "No positive verifier reward; Requested 40 bars per voice; counted 1: 0, 2: 0"
+  },
+  {
+    "promptId": "gK-0260",
+    "split": "validation",
+    "version": "step-0",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "No positive verifier reward; Requested 2 voices; found 1; Requested 40 bars per voice; counted 1: 0"
+  },
+  {
+    "promptId": "gK-0593",
+    "split": "validation",
+    "version": "step-0",
+    "reward": 0.069,
+    "accepted": false,
+    "reason": "Requested 96 bars per voice; counted 1: 746, 2: 0"
+  },
+  {
+    "promptId": "gK-1151",
+    "split": "validation",
+    "version": "step-0",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "No positive verifier reward; Invalid bar durations; Requested 80 bars per voice; counted 1: 80, 2: 80, 3: 61, 4: 0, 5: 0"
+  },
+  {
+    "promptId": "gK-0195",
+    "split": "validation",
+    "version": "step-0",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "No positive verifier reward; ABC syntax errors; Invalid bar durations; Requested 88 bars per voice; counted 1: 76, 2: 76"
+  },
+  {
+    "promptId": "gK-0817",
+    "split": "validation",
+    "version": "step-0",
+    "reward": 0,
+    "accepted": false,
+    "reason": "no_abc"
+  },
+  {
+    "promptId": "gK-0867",
+    "split": "validation",
+    "version": "step-0",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "No positive verifier reward; ABC syntax errors; Invalid bar durations; Requested 72 bars per voice; counted 1: 508, 2: 0, 3: 0"
+  },
+  {
+    "promptId": "gK-0476",
+    "split": "validation",
+    "version": "step-38",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice Fl exceeded requested 56 bars (72 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0718",
+    "split": "validation",
+    "version": "step-38",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice 1 exceeded requested 56 bars (68 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-1095",
+    "split": "validation",
+    "version": "step-38",
+    "reward": 0.52,
+    "accepted": false,
+    "reason": "Requested 80 bars per voice; counted 1: 72, 2: 72"
+  },
+  {
+    "promptId": "gK-0030",
+    "split": "validation",
+    "version": "step-38",
+    "reward": 0.746,
+    "accepted": false,
+    "reason": "Requested 40 bars per voice; counted RH: 32, LH: 32"
+  },
+  {
+    "promptId": "gK-0303",
+    "split": "validation",
+    "version": "step-38",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice RH exceeded requested 96 bars (108 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0146",
+    "split": "validation",
+    "version": "step-38",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice RH exceeded requested 32 bars (48 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0714",
+    "split": "validation",
+    "version": "step-38",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice trp exceeded requested 40 bars (56 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0020",
+    "split": "validation",
+    "version": "step-38",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice RH exceeded requested 48 bars (64 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0300",
+    "split": "validation",
+    "version": "step-38",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice RH exceeded requested 48 bars (72 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0048",
+    "split": "validation",
+    "version": "step-38",
+    "reward": 0.63,
+    "accepted": false,
+    "reason": "Requested 56 bars per voice; counted RH: 64, LH: 64"
+  },
+  {
+    "promptId": "gK-0509",
+    "split": "validation",
+    "version": "step-38",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice 1 exceeded requested 96 bars (112 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0009",
+    "split": "validation",
+    "version": "step-38",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice RH exceeded requested 80 bars (96 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0545",
+    "split": "validation",
+    "version": "step-38",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice 1 exceeded requested 72 bars (84 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0432",
+    "split": "validation",
+    "version": "step-38",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice 1 exceeded requested 48 bars (68 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0863",
+    "split": "validation",
+    "version": "step-38",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice acc exceeded requested 96 bars (108 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0047",
+    "split": "validation",
+    "version": "step-38",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice RH exceeded requested 88 bars (104 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0974",
+    "split": "validation",
+    "version": "step-38",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice RH exceeded requested 48 bars (64 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0442",
+    "split": "validation",
+    "version": "step-38",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice 1 exceeded requested 40 bars (56 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0917",
+    "split": "validation",
+    "version": "step-38",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice G exceeded requested 96 bars (112 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0473",
+    "split": "validation",
+    "version": "step-38",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice Fl exceeded requested 80 bars (96 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-1099",
+    "split": "validation",
+    "version": "step-38",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice 1 exceeded requested 64 bars (76 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0876",
+    "split": "validation",
+    "version": "step-38",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "No positive verifier reward; Invalid bar durations; Requested 48 bars per voice; counted cl: 32, acc: 32, bc: 32"
+  },
+  {
+    "promptId": "gK-0764",
+    "split": "validation",
+    "version": "step-38",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice vn exceeded requested 48 bars (64 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-1130",
+    "split": "validation",
+    "version": "step-38",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice D exceeded requested 48 bars (64 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0736",
+    "split": "validation",
+    "version": "step-38",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice 1 exceeded requested 48 bars (64 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0809",
+    "split": "validation",
+    "version": "step-38",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice RH exceeded requested 88 bars (104 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0724",
+    "split": "validation",
+    "version": "step-38",
+    "reward": 0.825,
+    "accepted": true,
+    "reason": null
+  },
+  {
+    "promptId": "gK-0283",
+    "split": "validation",
+    "version": "step-38",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice RH exceeded requested 64 bars (80 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0163",
+    "split": "validation",
+    "version": "step-38",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice SO exceeded requested 72 bars (84 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0236",
+    "split": "validation",
+    "version": "step-38",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice RH exceeded requested 48 bars (64 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0725",
+    "split": "validation",
+    "version": "step-38",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice T exceeded requested 80 bars (96 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0274",
+    "split": "validation",
+    "version": "step-38",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice RH exceeded requested 56 bars (72 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0706",
+    "split": "validation",
+    "version": "step-38",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice Sax exceeded requested 56 bars (68 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-1120",
+    "split": "validation",
+    "version": "step-38",
+    "reward": 0.726,
+    "accepted": true,
+    "reason": null
+  },
+  {
+    "promptId": "gK-0058",
+    "split": "validation",
+    "version": "step-38",
+    "reward": 0.5379999999999999,
+    "accepted": true,
+    "reason": null
+  },
+  {
+    "promptId": "gK-0232",
+    "split": "validation",
+    "version": "step-38",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice RH exceeded requested 40 bars (52 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0939",
+    "split": "validation",
+    "version": "step-38",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice G exceeded requested 72 bars (85 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0814",
+    "split": "validation",
+    "version": "step-38",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice RH exceeded requested 40 bars (56 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0135",
+    "split": "validation",
+    "version": "step-38",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice RH exceeded requested 64 bars (80 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0007",
+    "split": "validation",
+    "version": "step-38",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice RH exceeded requested 72 bars (88 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0395",
+    "split": "validation",
+    "version": "step-38",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice RH exceeded requested 72 bars (88 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0080",
+    "split": "validation",
+    "version": "step-38",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice RH exceeded requested 40 bars (52 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0417",
+    "split": "validation",
+    "version": "step-38",
+    "reward": 0.628,
+    "accepted": false,
+    "reason": "Requested 88 bars per voice; counted V1: 80, V2: 80, V3: 80, V4: 80"
+  },
+  {
+    "promptId": "gK-0617",
+    "split": "validation",
+    "version": "step-38",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice 1 exceeded requested 72 bars (84 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0731",
+    "split": "validation",
+    "version": "step-38",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice 1 exceeded requested 72 bars (88 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0628",
+    "split": "validation",
+    "version": "step-38",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice mb exceeded requested 48 bars (60 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0322",
+    "split": "validation",
+    "version": "step-38",
+    "reward": 0.769,
+    "accepted": false,
+    "reason": "Requested 40 bars per voice; counted RH: 48, LH: 48"
+  },
+  {
+    "promptId": "gK-0661",
+    "split": "validation",
+    "version": "step-38",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice H exceeded requested 64 bars (80 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0507",
+    "split": "validation",
+    "version": "step-38",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice 1 exceeded requested 64 bars (96 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-1054",
+    "split": "validation",
+    "version": "step-38",
+    "reward": 0.636,
+    "accepted": true,
+    "reason": null
+  },
+  {
+    "promptId": "gK-0542",
+    "split": "validation",
+    "version": "step-38",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice vn exceeded requested 40 bars (52 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0119",
+    "split": "validation",
+    "version": "step-38",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice RH exceeded requested 72 bars (92 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0284",
+    "split": "validation",
+    "version": "step-38",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice RH exceeded requested 40 bars (64 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0348",
+    "split": "validation",
+    "version": "step-38",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice RH exceeded requested 56 bars (72 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0598",
+    "split": "validation",
+    "version": "step-38",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice RH exceeded requested 48 bars (64 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0015",
+    "split": "validation",
+    "version": "step-38",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice RH exceeded requested 64 bars (80 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0621",
+    "split": "validation",
+    "version": "step-38",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice M exceeded requested 72 bars (88 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0727",
+    "split": "validation",
+    "version": "step-38",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice 1 exceeded requested 72 bars (88 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0129",
+    "split": "validation",
+    "version": "step-38",
+    "reward": 0.706,
+    "accepted": true,
+    "reason": null
+  },
+  {
+    "promptId": "gK-0252",
+    "split": "validation",
+    "version": "step-38",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice RH exceeded requested 40 bars (56 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0907",
+    "split": "validation",
+    "version": "step-38",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice G exceeded requested 88 bars (104 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-1164",
+    "split": "validation",
+    "version": "step-38",
+    "reward": 0.563,
+    "accepted": true,
+    "reason": null
+  },
+  {
+    "promptId": "gK-0755",
+    "split": "validation",
+    "version": "step-38",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice 1 exceeded requested 64 bars (80 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0451",
+    "split": "validation",
+    "version": "step-38",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice 1 exceeded requested 88 bars (100 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0820",
+    "split": "validation",
+    "version": "step-38",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "No positive verifier reward; Invalid bar durations; Requested 48 bars per voice; counted RH: 40, LH: 40"
+  },
+  {
+    "promptId": "gK-0440",
+    "split": "validation",
+    "version": "step-38",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice Vn exceeded requested 48 bars (72 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0523",
+    "split": "validation",
+    "version": "step-38",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice P exceeded requested 72 bars (84 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0780",
+    "split": "validation",
+    "version": "step-38",
+    "reward": 0.573,
+    "accepted": false,
+    "reason": "Requested 48 bars per voice; counted 1: 56, 2: 56, 3: 56"
+  },
+  {
+    "promptId": "gK-0450",
+    "split": "validation",
+    "version": "step-38",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice T1 exceeded requested 40 bars (52 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0982",
+    "split": "validation",
+    "version": "step-38",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice S exceeded requested 48 bars (64 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0260",
+    "split": "validation",
+    "version": "step-38",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice RH exceeded requested 40 bars (56 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0308",
+    "split": "validation",
+    "version": "step-38",
+    "reward": 0.55,
+    "accepted": true,
+    "reason": null
+  },
+  {
+    "promptId": "gK-0251",
+    "split": "validation",
+    "version": "step-38",
+    "reward": 0.535,
+    "accepted": false,
+    "reason": "Requested 4 voices; found 2; Requested 64 bars per voice; counted RH: 56, LH: 56"
+  },
+  {
+    "promptId": "gK-0219",
+    "split": "validation",
+    "version": "step-38",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice LH exceeded requested 88 bars (104 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0162",
+    "split": "validation",
+    "version": "step-38",
+    "reward": 0.64,
+    "accepted": true,
+    "reason": null
+  },
+  {
+    "promptId": "gK-0593",
+    "split": "validation",
+    "version": "step-38",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice RH exceeded requested 96 bars (108 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0887",
+    "split": "validation",
+    "version": "step-38",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice cl exceeded requested 88 bars (100 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0817",
+    "split": "validation",
+    "version": "step-38",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice RH exceeded requested 88 bars (104 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-1156",
+    "split": "validation",
+    "version": "step-38",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "No positive verifier reward; Invalid bar durations"
+  },
+  {
+    "promptId": "gK-1028",
+    "split": "validation",
+    "version": "step-38",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice dg exceeded requested 48 bars (64 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0386",
+    "split": "validation",
+    "version": "step-38",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice RH exceeded requested 56 bars (72 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-1141",
+    "split": "validation",
+    "version": "step-38",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice P exceeded requested 96 bars (108 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0188",
+    "split": "validation",
+    "version": "step-38",
+    "reward": 0.535,
+    "accepted": false,
+    "reason": "Requested 48 bars per voice; counted RH: 56, LH: 56"
+  },
+  {
+    "promptId": "gK-0042",
+    "split": "validation",
+    "version": "step-38",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice RH exceeded requested 56 bars (72 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0792",
+    "split": "validation",
+    "version": "step-38",
+    "reward": 0.599,
+    "accepted": true,
+    "reason": null
+  },
+  {
+    "promptId": "gK-0428",
+    "split": "validation",
+    "version": "step-38",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice V1 exceeded requested 32 bars (48 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0290",
+    "split": "validation",
+    "version": "step-38",
+    "reward": 0.58,
+    "accepted": true,
+    "reason": null
+  },
+  {
+    "promptId": "gK-0335",
+    "split": "validation",
+    "version": "step-38",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice RH exceeded requested 64 bars (76 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0749",
+    "split": "validation",
+    "version": "step-38",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice 1 exceeded requested 80 bars (92 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0867",
+    "split": "validation",
+    "version": "step-38",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice 1 exceeded requested 72 bars (96 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0893",
+    "split": "validation",
+    "version": "step-38",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice 1 exceeded requested 64 bars (76 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0195",
+    "split": "validation",
+    "version": "step-38",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice RH exceeded requested 88 bars (100 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0801",
+    "split": "validation",
+    "version": "step-38",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice RH exceeded requested 80 bars (96 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0437",
+    "split": "validation",
+    "version": "step-38",
+    "reward": 0.5589999999999999,
+    "accepted": false,
+    "reason": "Requested 96 bars per voice; counted 1: 84, 2: 84, 3: 84, 4: 84"
+  },
+  {
+    "promptId": "gK-1086",
+    "split": "validation",
+    "version": "step-38",
+    "reward": 0.444,
+    "accepted": false,
+    "reason": "Requested 56 bars per voice; counted 1: 48, 2: 48"
+  },
+  {
+    "promptId": "gK-0816",
+    "split": "validation",
+    "version": "step-38",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "No positive verifier reward; Invalid bar durations; Requested 48 bars per voice; counted RH: 56, LH: 56"
+  },
+  {
+    "promptId": "gK-0831",
+    "split": "validation",
+    "version": "step-38",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice RH exceeded requested 72 bars (88 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0243",
+    "split": "validation",
+    "version": "step-38",
+    "reward": 0.7440000000000001,
+    "accepted": false,
+    "reason": "Requested 96 bars per voice; counted 1: 60, 2: 60, 3: 60, 4: 60"
+  },
+  {
+    "promptId": "gK-0327",
+    "split": "validation",
+    "version": "step-38",
+    "reward": 0.513,
+    "accepted": false,
+    "reason": "Requested 72 bars per voice; counted RH: 60, LH: 60"
+  },
+  {
+    "promptId": "gK-0085",
+    "split": "validation",
+    "version": "step-38",
+    "reward": 0.6509999999999999,
+    "accepted": false,
+    "reason": "Requested 80 bars per voice; counted RH: 76, LH: 88"
+  },
+  {
+    "promptId": "gK-0832",
+    "split": "validation",
+    "version": "step-38",
+    "reward": 0.6920000000000001,
+    "accepted": false,
+    "reason": "Requested 48 bars per voice; counted RH: 56, LH: 56"
+  },
+  {
+    "promptId": "gK-1027",
+    "split": "validation",
+    "version": "step-38",
+    "reward": 0.515,
+    "accepted": false,
+    "reason": "Requested 64 bars per voice; counted DG: 60, CG: 60, Ba: 60, Pi: 60, Dr: 60"
+  },
+  {
+    "promptId": "gK-0231",
+    "split": "validation",
+    "version": "step-38",
+    "reward": 0.703,
+    "accepted": false,
+    "reason": "Requested 88 bars per voice; counted RH: 80, LH: 80, Ped: 80"
+  },
+  {
+    "promptId": "gK-1074",
+    "split": "validation",
+    "version": "step-38",
+    "reward": 0.687,
+    "accepted": false,
+    "reason": "Requested 48 bars per voice; counted G: 52, D: 52, P: 52, S: 52, B: 52"
+  },
+  {
+    "promptId": "gK-1151",
+    "split": "validation",
+    "version": "step-38",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "No positive verifier reward; ABC syntax errors; Invalid bar durations; Requested 80 bars per voice; counted EP: 76, GT: 76, BS: 76, SX: 76, DR: 58"
+  },
+  {
+    "promptId": "gK-0476",
+    "split": "validation",
+    "version": "step-76",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice fl exceeded requested 56 bars (72 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0030",
+    "split": "validation",
+    "version": "step-76",
+    "reward": 0.6779999999999999,
+    "accepted": false,
+    "reason": "Requested 40 bars per voice; counted RH: 32, LH: 32"
+  },
+  {
+    "promptId": "gK-1095",
+    "split": "validation",
+    "version": "step-76",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice RH exceeded requested 80 bars (96 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0146",
+    "split": "validation",
+    "version": "step-76",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice RH exceeded requested 32 bars (48 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0048",
+    "split": "validation",
+    "version": "step-76",
+    "reward": 0.575,
+    "accepted": false,
+    "reason": "Requested 56 bars per voice; counted RH: 64, LH: 64"
+  },
+  {
+    "promptId": "gK-0303",
+    "split": "validation",
+    "version": "step-76",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice RH exceeded requested 96 bars (108 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0300",
+    "split": "validation",
+    "version": "step-76",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice RH exceeded requested 48 bars (64 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0432",
+    "split": "validation",
+    "version": "step-76",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice 1 exceeded requested 48 bars (60 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0020",
+    "split": "validation",
+    "version": "step-76",
+    "reward": 0.584,
+    "accepted": false,
+    "reason": "Requested 48 bars per voice; counted RH: 40, LH: 40"
+  },
+  {
+    "promptId": "gK-0509",
+    "split": "validation",
+    "version": "step-76",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice 1 exceeded requested 96 bars (112 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0876",
+    "split": "validation",
+    "version": "step-76",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice cl exceeded requested 48 bars (64 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0047",
+    "split": "validation",
+    "version": "step-76",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice RH exceeded requested 88 bars (104 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0473",
+    "split": "validation",
+    "version": "step-76",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice 1 exceeded requested 80 bars (92 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0863",
+    "split": "validation",
+    "version": "step-76",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice acc exceeded requested 96 bars (112 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0442",
+    "split": "validation",
+    "version": "step-76",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice 1 exceeded requested 40 bars (52 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0714",
+    "split": "validation",
+    "version": "step-76",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "No positive verifier reward; Invalid bar durations; Requested 40 bars per voice; counted 1: 32, 2: 32, 3: 32"
+  },
+  {
+    "promptId": "gK-0917",
+    "split": "validation",
+    "version": "step-76",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice 1 exceeded requested 96 bars (112 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0974",
+    "split": "validation",
+    "version": "step-76",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice RH exceeded requested 48 bars (60 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-1099",
+    "split": "validation",
+    "version": "step-76",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice 1 exceeded requested 64 bars (80 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0764",
+    "split": "validation",
+    "version": "step-76",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice 1 exceeded requested 48 bars (64 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0545",
+    "split": "validation",
+    "version": "step-76",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice 1 exceeded requested 72 bars (88 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-1120",
+    "split": "validation",
+    "version": "step-76",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice 1 exceeded requested 56 bars (72 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0724",
+    "split": "validation",
+    "version": "step-76",
+    "reward": 0.8079999999999999,
+    "accepted": true,
+    "reason": null
+  },
+  {
+    "promptId": "gK-0736",
+    "split": "validation",
+    "version": "step-76",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice 1 exceeded requested 48 bars (64 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0718",
+    "split": "validation",
+    "version": "step-76",
+    "reward": 0.7709999999999999,
+    "accepted": false,
+    "reason": "Requested 56 bars per voice; counted 1: 64, 2: 64, 3: 64"
+  },
+  {
+    "promptId": "gK-0236",
+    "split": "validation",
+    "version": "step-76",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice RH exceeded requested 48 bars (64 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0809",
+    "split": "validation",
+    "version": "step-76",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice RH exceeded requested 88 bars (104 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0163",
+    "split": "validation",
+    "version": "step-76",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice S exceeded requested 72 bars (92 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0009",
+    "split": "validation",
+    "version": "step-76",
+    "reward": 0.7390000000000001,
+    "accepted": true,
+    "reason": null
+  },
+  {
+    "promptId": "gK-1054",
+    "split": "validation",
+    "version": "step-76",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice EP exceeded requested 32 bars (44 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0283",
+    "split": "validation",
+    "version": "step-76",
+    "reward": 0.792,
+    "accepted": false,
+    "reason": "Requested 64 bars per voice; counted RH: 68, LH: 68"
+  },
+  {
+    "promptId": "gK-0232",
+    "split": "validation",
+    "version": "step-76",
+    "reward": 0.6659999999999999,
+    "accepted": false,
+    "reason": "Requested 40 bars per voice; counted RH: 48, LH: 48, PED: 48"
+  },
+  {
+    "promptId": "gK-0939",
+    "split": "validation",
+    "version": "step-76",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice 1 exceeded requested 72 bars (84 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0080",
+    "split": "validation",
+    "version": "step-76",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice RH exceeded requested 40 bars (52 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0058",
+    "split": "validation",
+    "version": "step-76",
+    "reward": 0.623,
+    "accepted": false,
+    "reason": "Invalid bar durations; Requested 40 bars per voice; counted RH: 48, LH: 48"
+  },
+  {
+    "promptId": "gK-0706",
+    "split": "validation",
+    "version": "step-76",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice 1 exceeded requested 56 bars (72 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0417",
+    "split": "validation",
+    "version": "step-76",
+    "reward": 0.675,
+    "accepted": false,
+    "reason": "Requested 88 bars per voice; counted 1: 76, 2: 76, 3: 76, 4: 76"
+  },
+  {
+    "promptId": "gK-0274",
+    "split": "validation",
+    "version": "step-76",
+    "reward": 0.662,
+    "accepted": true,
+    "reason": null
+  },
+  {
+    "promptId": "gK-1130",
+    "split": "validation",
+    "version": "step-76",
+    "reward": 0.41600000000000004,
+    "accepted": false,
+    "reason": "Requested 48 bars per voice; counted 1: 56, 2: 56, 3: 56, 4: 56"
+  },
+  {
+    "promptId": "gK-0322",
+    "split": "validation",
+    "version": "step-76",
+    "reward": 0.742,
+    "accepted": false,
+    "reason": "Requested 40 bars per voice; counted RH: 48, LH: 48"
+  },
+  {
+    "promptId": "gK-0007",
+    "split": "validation",
+    "version": "step-76",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice RH exceeded requested 72 bars (88 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0129",
+    "split": "validation",
+    "version": "step-76",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice RH exceeded requested 96 bars (108 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0395",
+    "split": "validation",
+    "version": "step-76",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice RH exceeded requested 72 bars (88 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0814",
+    "split": "validation",
+    "version": "step-76",
+    "reward": 0.6970000000000001,
+    "accepted": true,
+    "reason": null
+  },
+  {
+    "promptId": "gK-0661",
+    "split": "validation",
+    "version": "step-76",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice 1 exceeded requested 64 bars (80 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0542",
+    "split": "validation",
+    "version": "step-76",
+    "reward": 0.285,
+    "accepted": false,
+    "reason": "Requested 40 bars per voice; counted 1: 48"
+  },
+  {
+    "promptId": "gK-0617",
+    "split": "validation",
+    "version": "step-76",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice acc exceeded requested 72 bars (88 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0119",
+    "split": "validation",
+    "version": "step-76",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice RH exceeded requested 72 bars (84 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0731",
+    "split": "validation",
+    "version": "step-76",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice 1 exceeded requested 72 bars (88 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0507",
+    "split": "validation",
+    "version": "step-76",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice 1 exceeded requested 64 bars (80 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0015",
+    "split": "validation",
+    "version": "step-76",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice RH exceeded requested 64 bars (80 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0628",
+    "split": "validation",
+    "version": "step-76",
+    "reward": 0.324,
+    "accepted": false,
+    "reason": "Requested 48 bars per voice; counted 1: 40, 2: 40"
+  },
+  {
+    "promptId": "gK-0135",
+    "split": "validation",
+    "version": "step-76",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice RH exceeded requested 64 bars (76 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0251",
+    "split": "validation",
+    "version": "step-76",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice 1 exceeded requested 64 bars (76 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0284",
+    "split": "validation",
+    "version": "step-76",
+    "reward": 0.564,
+    "accepted": false,
+    "reason": "Requested 40 bars per voice; counted RH: 48, LH: 48"
+  },
+  {
+    "promptId": "gK-0725",
+    "split": "validation",
+    "version": "step-76",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "No positive verifier reward; Invalid bar durations; Requested 80 bars per voice; counted 1: 76, 2: 76, 3: 76"
+  },
+  {
+    "promptId": "gK-0598",
+    "split": "validation",
+    "version": "step-76",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice RH exceeded requested 48 bars (64 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0523",
+    "split": "validation",
+    "version": "step-76",
+    "reward": 0.726,
+    "accepted": false,
+    "reason": "Requested 72 bars per voice; counted 1: 52, 2: 52, 3: 52"
+  },
+  {
+    "promptId": "gK-0348",
+    "split": "validation",
+    "version": "step-76",
+    "reward": 0.843,
+    "accepted": false,
+    "reason": "Requested 56 bars per voice; counted RH: 64, LH: 64"
+  },
+  {
+    "promptId": "gK-0820",
+    "split": "validation",
+    "version": "step-76",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice RH exceeded requested 48 bars (64 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0727",
+    "split": "validation",
+    "version": "step-76",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice 1 exceeded requested 72 bars (84 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0219",
+    "split": "validation",
+    "version": "step-76",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice 1 exceeded requested 88 bars (104 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0907",
+    "split": "validation",
+    "version": "step-76",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice G exceeded requested 88 bars (100 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0440",
+    "split": "validation",
+    "version": "step-76",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice 1 exceeded requested 48 bars (64 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-1164",
+    "split": "validation",
+    "version": "step-76",
+    "reward": 0.696,
+    "accepted": false,
+    "reason": "Requested 32 bars per voice; counted 1: 40, 2: 40, 3: 40, 4: 40"
+  },
+  {
+    "promptId": "gK-0780",
+    "split": "validation",
+    "version": "step-76",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice acc exceeded requested 48 bars (64 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0162",
+    "split": "validation",
+    "version": "step-76",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice S exceeded requested 40 bars (56 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0308",
+    "split": "validation",
+    "version": "step-76",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice RH exceeded requested 40 bars (56 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0243",
+    "split": "validation",
+    "version": "step-76",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice 1 exceeded requested 96 bars (116 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0755",
+    "split": "validation",
+    "version": "step-76",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice 1 exceeded requested 64 bars (80 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0621",
+    "split": "validation",
+    "version": "step-76",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice mar exceeded requested 72 bars (88 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0260",
+    "split": "validation",
+    "version": "step-76",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice RH exceeded requested 40 bars (56 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0252",
+    "split": "validation",
+    "version": "step-76",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "No positive verifier reward; Invalid bar durations"
+  },
+  {
+    "promptId": "gK-0451",
+    "split": "validation",
+    "version": "step-76",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice 1 exceeded requested 88 bars (100 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0450",
+    "split": "validation",
+    "version": "step-76",
+    "reward": 0.703,
+    "accepted": false,
+    "reason": "Requested 40 bars per voice; counted T1: 32, T2: 32, Hn: 32, Tb: 32, Tb2: 32"
+  },
+  {
+    "promptId": "gK-0982",
+    "split": "validation",
+    "version": "step-76",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice sax exceeded requested 48 bars (64 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0887",
+    "split": "validation",
+    "version": "step-76",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice cl exceeded requested 88 bars (100 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0817",
+    "split": "validation",
+    "version": "step-76",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice RH exceeded requested 88 bars (100 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0816",
+    "split": "validation",
+    "version": "step-76",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice RH exceeded requested 48 bars (64 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0188",
+    "split": "validation",
+    "version": "step-76",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice RH exceeded requested 48 bars (64 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0085",
+    "split": "validation",
+    "version": "step-76",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice RH exceeded requested 80 bars (96 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-1156",
+    "split": "validation",
+    "version": "step-76",
+    "reward": 0.731,
+    "accepted": true,
+    "reason": null
+  },
+  {
+    "promptId": "gK-0386",
+    "split": "validation",
+    "version": "step-76",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice RH exceeded requested 56 bars (68 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0290",
+    "split": "validation",
+    "version": "step-76",
+    "reward": 0.597,
+    "accepted": false,
+    "reason": "Requested 32 bars per voice; counted RH: 40, LH: 40"
+  },
+  {
+    "promptId": "gK-0335",
+    "split": "validation",
+    "version": "step-76",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice RH exceeded requested 64 bars (76 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0437",
+    "split": "validation",
+    "version": "step-76",
+    "reward": 0.516,
+    "accepted": true,
+    "reason": null
+  },
+  {
+    "promptId": "gK-0792",
+    "split": "validation",
+    "version": "step-76",
+    "reward": 0.586,
+    "accepted": false,
+    "reason": "Requested 56 bars per voice; counted acc: 64, cl: 64, db: 64"
+  },
+  {
+    "promptId": "gK-0593",
+    "split": "validation",
+    "version": "step-76",
+    "reward": 0.8029999999999999,
+    "accepted": false,
+    "reason": "Requested 96 bars per voice; counted RH: 100, LH: 100"
+  },
+  {
+    "promptId": "gK-0327",
+    "split": "validation",
+    "version": "step-76",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice RH exceeded requested 72 bars (84 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0749",
+    "split": "validation",
+    "version": "step-76",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice 1 exceeded requested 80 bars (92 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-1086",
+    "split": "validation",
+    "version": "step-76",
+    "reward": 0.602,
+    "accepted": true,
+    "reason": null
+  },
+  {
+    "promptId": "gK-0042",
+    "split": "validation",
+    "version": "step-76",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "No positive verifier reward; Invalid bar durations; Requested 56 bars per voice; counted RH: 64, LH: 64"
+  },
+  {
+    "promptId": "gK-0832",
+    "split": "validation",
+    "version": "step-76",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice RH exceeded requested 48 bars (64 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0231",
+    "split": "validation",
+    "version": "step-76",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice 1 exceeded requested 88 bars (104 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0893",
+    "split": "validation",
+    "version": "step-76",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice cl exceeded requested 64 bars (80 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0867",
+    "split": "validation",
+    "version": "step-76",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice cl exceeded requested 72 bars (88 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-1074",
+    "split": "validation",
+    "version": "step-76",
+    "reward": 0.703,
+    "accepted": true,
+    "reason": null
+  },
+  {
+    "promptId": "gK-0831",
+    "split": "validation",
+    "version": "step-76",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice RH exceeded requested 72 bars (96 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0195",
+    "split": "validation",
+    "version": "step-76",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice RH exceeded requested 88 bars (104 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0428",
+    "split": "validation",
+    "version": "step-76",
+    "reward": 0.723,
+    "accepted": true,
+    "reason": null
+  },
+  {
+    "promptId": "gK-0801",
+    "split": "validation",
+    "version": "step-76",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice RH exceeded requested 80 bars (96 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-1141",
+    "split": "validation",
+    "version": "step-76",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice 1 exceeded requested 96 bars (108 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-1027",
+    "split": "validation",
+    "version": "step-76",
+    "reward": 0.5660000000000001,
+    "accepted": false,
+    "reason": "Requested 64 bars per voice; counted dg: 68, cg: 68, bs: 68, pn: 68, dr: 68"
+  },
+  {
+    "promptId": "gK-1028",
+    "split": "validation",
+    "version": "step-76",
+    "reward": 0.684,
+    "accepted": false,
+    "reason": "Requested 48 bars per voice; counted DG: 56, CG: 56, BS: 56, PN: 56, DR: 56"
+  },
+  {
+    "promptId": "gK-1151",
+    "split": "validation",
+    "version": "step-76",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "No positive verifier reward; Invalid bar durations; Requested 80 bars per voice; counted EP: 84, GT: 84, BS: 84, SX: 85, DR: 0"
+  },
+  {
+    "promptId": "gK-0476",
+    "split": "validation",
+    "version": "step-114",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice Fl exceeded requested 56 bars (72 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-1095",
+    "split": "validation",
+    "version": "step-114",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice RH exceeded requested 80 bars (92 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0509",
+    "split": "validation",
+    "version": "step-114",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice 1 exceeded requested 96 bars (120 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0020",
+    "split": "validation",
+    "version": "step-114",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice RH exceeded requested 48 bars (64 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0048",
+    "split": "validation",
+    "version": "step-114",
+    "reward": 0.547,
+    "accepted": true,
+    "reason": null
+  },
+  {
+    "promptId": "gK-0146",
+    "split": "validation",
+    "version": "step-114",
+    "reward": 0.365,
+    "accepted": true,
+    "reason": null
+  },
+  {
+    "promptId": "gK-0030",
+    "split": "validation",
+    "version": "step-114",
+    "reward": 0.731,
+    "accepted": false,
+    "reason": "Requested 40 bars per voice; counted RH: 48, LH: 48"
+  },
+  {
+    "promptId": "gK-0545",
+    "split": "validation",
+    "version": "step-114",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice V exceeded requested 72 bars (84 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0863",
+    "split": "validation",
+    "version": "step-114",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice acc exceeded requested 96 bars (112 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0300",
+    "split": "validation",
+    "version": "step-114",
+    "reward": 0.728,
+    "accepted": false,
+    "reason": "Requested 48 bars per voice; counted RH: 56, LH: 56"
+  },
+  {
+    "promptId": "gK-0876",
+    "split": "validation",
+    "version": "step-114",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice cl exceeded requested 48 bars (64 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0432",
+    "split": "validation",
+    "version": "step-114",
+    "reward": 0.57,
+    "accepted": true,
+    "reason": null
+  },
+  {
+    "promptId": "gK-0473",
+    "split": "validation",
+    "version": "step-114",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice 1 exceeded requested 80 bars (96 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0764",
+    "split": "validation",
+    "version": "step-114",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice 1 exceeded requested 48 bars (64 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-1120",
+    "split": "validation",
+    "version": "step-114",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice 1 exceeded requested 56 bars (72 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0736",
+    "split": "validation",
+    "version": "step-114",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice 1 exceeded requested 48 bars (64 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0442",
+    "split": "validation",
+    "version": "step-114",
+    "reward": 0.575,
+    "accepted": false,
+    "reason": "Requested 40 bars per voice; counted 1: 48, 2: 48, 3: 48, 4: 48"
+  },
+  {
+    "promptId": "gK-0917",
+    "split": "validation",
+    "version": "step-114",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice G exceeded requested 96 bars (112 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0232",
+    "split": "validation",
+    "version": "step-114",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice RH exceeded requested 40 bars (56 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0714",
+    "split": "validation",
+    "version": "step-114",
+    "reward": 0.805,
+    "accepted": false,
+    "reason": "Requested 40 bars per voice; counted 1: 48, 2: 48, 3: 48"
+  },
+  {
+    "promptId": "gK-0724",
+    "split": "validation",
+    "version": "step-114",
+    "reward": 0.802,
+    "accepted": true,
+    "reason": null
+  },
+  {
+    "promptId": "gK-0047",
+    "split": "validation",
+    "version": "step-114",
+    "reward": 0.639,
+    "accepted": true,
+    "reason": null
+  },
+  {
+    "promptId": "gK-0236",
+    "split": "validation",
+    "version": "step-114",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice P1a exceeded requested 48 bars (64 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-1099",
+    "split": "validation",
+    "version": "step-114",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice 1 exceeded requested 64 bars (76 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0809",
+    "split": "validation",
+    "version": "step-114",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice RH exceeded requested 88 bars (104 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0303",
+    "split": "validation",
+    "version": "step-114",
+    "reward": 0.68,
+    "accepted": false,
+    "reason": "Requested 96 bars per voice; counted RH: 104, LH: 104"
+  },
+  {
+    "promptId": "gK-0163",
+    "split": "validation",
+    "version": "step-114",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice S exceeded requested 72 bars (92 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0939",
+    "split": "validation",
+    "version": "step-114",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice G exceeded requested 72 bars (88 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0718",
+    "split": "validation",
+    "version": "step-114",
+    "reward": 0.7120000000000001,
+    "accepted": false,
+    "reason": "Requested 56 bars per voice; counted 1: 64, 2: 64, 3: 64"
+  },
+  {
+    "promptId": "gK-0009",
+    "split": "validation",
+    "version": "step-114",
+    "reward": 0.812,
+    "accepted": false,
+    "reason": "Requested 80 bars per voice; counted RH: 80, LH: 88"
+  },
+  {
+    "promptId": "gK-0283",
+    "split": "validation",
+    "version": "step-114",
+    "reward": 0.757,
+    "accepted": false,
+    "reason": "Requested 64 bars per voice; counted RH: 60, LH: 60"
+  },
+  {
+    "promptId": "gK-0080",
+    "split": "validation",
+    "version": "step-114",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice RH exceeded requested 40 bars (56 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0058",
+    "split": "validation",
+    "version": "step-114",
+    "reward": 0.5579999999999999,
+    "accepted": true,
+    "reason": null
+  },
+  {
+    "promptId": "gK-0395",
+    "split": "validation",
+    "version": "step-114",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice RH exceeded requested 72 bars (88 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0129",
+    "split": "validation",
+    "version": "step-114",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice RH exceeded requested 96 bars (108 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0661",
+    "split": "validation",
+    "version": "step-114",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice H exceeded requested 64 bars (80 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0617",
+    "split": "validation",
+    "version": "step-114",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice acc exceeded requested 72 bars (88 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0274",
+    "split": "validation",
+    "version": "step-114",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "No positive verifier reward; Invalid bar durations; Requested 56 bars per voice; counted RH: 40, LH: 40"
+  },
+  {
+    "promptId": "gK-0725",
+    "split": "validation",
+    "version": "step-114",
+    "reward": 0.785,
+    "accepted": false,
+    "reason": "Requested 80 bars per voice; counted 1: 60, 2: 60, 3: 60"
+  },
+  {
+    "promptId": "gK-0731",
+    "split": "validation",
+    "version": "step-114",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice 1 exceeded requested 72 bars (88 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0814",
+    "split": "validation",
+    "version": "step-114",
+    "reward": 0.6709999999999999,
+    "accepted": true,
+    "reason": null
+  },
+  {
+    "promptId": "gK-0119",
+    "split": "validation",
+    "version": "step-114",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice RH exceeded requested 72 bars (84 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0507",
+    "split": "validation",
+    "version": "step-114",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice 1 exceeded requested 64 bars (80 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0135",
+    "split": "validation",
+    "version": "step-114",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice RH exceeded requested 64 bars (76 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0417",
+    "split": "validation",
+    "version": "step-114",
+    "reward": 0.65,
+    "accepted": false,
+    "reason": "Requested 88 bars per voice; counted 1: 84, 2: 84, 3: 84, 4: 84"
+  },
+  {
+    "promptId": "gK-0542",
+    "split": "validation",
+    "version": "step-114",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice 1 exceeded requested 40 bars (56 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0628",
+    "split": "validation",
+    "version": "step-114",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice mar exceeded requested 48 bars (60 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0322",
+    "split": "validation",
+    "version": "step-114",
+    "reward": 0.737,
+    "accepted": false,
+    "reason": "Requested 40 bars per voice; counted RH: 48, LH: 48"
+  },
+  {
+    "promptId": "gK-0015",
+    "split": "validation",
+    "version": "step-114",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice RH exceeded requested 64 bars (76 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0598",
+    "split": "validation",
+    "version": "step-114",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice RH exceeded requested 48 bars (64 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-1054",
+    "split": "validation",
+    "version": "step-114",
+    "reward": 0.711,
+    "accepted": true,
+    "reason": null
+  },
+  {
+    "promptId": "gK-0706",
+    "split": "validation",
+    "version": "step-114",
+    "reward": 0.718,
+    "accepted": false,
+    "reason": "Requested 56 bars per voice; counted 1: 64, 2: 64, 3: 64"
+  },
+  {
+    "promptId": "gK-0284",
+    "split": "validation",
+    "version": "step-114",
+    "reward": 0.618,
+    "accepted": false,
+    "reason": "Requested 40 bars per voice; counted RH: 48, LH: 48"
+  },
+  {
+    "promptId": "gK-0727",
+    "split": "validation",
+    "version": "step-114",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice 1 exceeded requested 72 bars (88 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0251",
+    "split": "validation",
+    "version": "step-114",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice 1 exceeded requested 64 bars (80 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0780",
+    "split": "validation",
+    "version": "step-114",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice acc exceeded requested 48 bars (64 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-1130",
+    "split": "validation",
+    "version": "step-114",
+    "reward": 0.557,
+    "accepted": false,
+    "reason": "Requested 48 bars per voice; counted 1: 56, 2: 56, 3: 56, 4: 56"
+  },
+  {
+    "promptId": "gK-0007",
+    "split": "validation",
+    "version": "step-114",
+    "reward": 0.809,
+    "accepted": false,
+    "reason": "Requested 72 bars per voice; counted RH: 80, LH: 88"
+  },
+  {
+    "promptId": "gK-0348",
+    "split": "validation",
+    "version": "step-114",
+    "reward": 0.835,
+    "accepted": false,
+    "reason": "Requested 56 bars per voice; counted RH: 64, LH: 64"
+  },
+  {
+    "promptId": "gK-0755",
+    "split": "validation",
+    "version": "step-114",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice 1 exceeded requested 64 bars (80 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0243",
+    "split": "validation",
+    "version": "step-114",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice 1 exceeded requested 96 bars (116 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0219",
+    "split": "validation",
+    "version": "step-114",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice RH exceeded requested 88 bars (104 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-1164",
+    "split": "validation",
+    "version": "step-114",
+    "reward": 0.6679999999999999,
+    "accepted": true,
+    "reason": null
+  },
+  {
+    "promptId": "gK-0451",
+    "split": "validation",
+    "version": "step-114",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice 1 exceeded requested 88 bars (104 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0982",
+    "split": "validation",
+    "version": "step-114",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice S exceeded requested 48 bars (64 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0252",
+    "split": "validation",
+    "version": "step-114",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "No positive verifier reward; Invalid bar durations"
+  },
+  {
+    "promptId": "gK-0523",
+    "split": "validation",
+    "version": "step-114",
+    "reward": 0.737,
+    "accepted": false,
+    "reason": "Requested 72 bars per voice; counted 1: 68, 2: 68, 3: 68"
+  },
+  {
+    "promptId": "gK-0440",
+    "split": "validation",
+    "version": "step-114",
+    "reward": 0.502,
+    "accepted": true,
+    "reason": null
+  },
+  {
+    "promptId": "gK-0974",
+    "split": "validation",
+    "version": "step-114",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "No positive verifier reward; Invalid bar durations; Requested 4 voices; found 5; Requested 48 bars per voice; counted P: 48, RH: 48, LH: 52, B: 52, D: 61"
+  },
+  {
+    "promptId": "gK-0621",
+    "split": "validation",
+    "version": "step-114",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice marimba exceeded requested 72 bars (88 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0162",
+    "split": "validation",
+    "version": "step-114",
+    "reward": 0.579,
+    "accepted": false,
+    "reason": "Requested 40 bars per voice; counted S: 48, A: 48, T: 48, B: 48"
+  },
+  {
+    "promptId": "gK-0308",
+    "split": "validation",
+    "version": "step-114",
+    "reward": 0.809,
+    "accepted": false,
+    "reason": "Requested 40 bars per voice; counted RH: 48, LH: 48"
+  },
+  {
+    "promptId": "gK-0887",
+    "split": "validation",
+    "version": "step-114",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice cl exceeded requested 88 bars (104 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0820",
+    "split": "validation",
+    "version": "step-114",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "No positive verifier reward; Invalid bar durations; Requested 48 bars per voice; counted RH: 56, LH: 56"
+  },
+  {
+    "promptId": "gK-0260",
+    "split": "validation",
+    "version": "step-114",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "No positive verifier reward; Invalid bar durations"
+  },
+  {
+    "promptId": "gK-0290",
+    "split": "validation",
+    "version": "step-114",
+    "reward": 0.626,
+    "accepted": true,
+    "reason": null
+  },
+  {
+    "promptId": "gK-0335",
+    "split": "validation",
+    "version": "step-114",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice RH exceeded requested 64 bars (76 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0085",
+    "split": "validation",
+    "version": "step-114",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice RH exceeded requested 80 bars (96 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0327",
+    "split": "validation",
+    "version": "step-114",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice RH exceeded requested 72 bars (84 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0386",
+    "split": "validation",
+    "version": "step-114",
+    "reward": 0.626,
+    "accepted": true,
+    "reason": null
+  },
+  {
+    "promptId": "gK-0792",
+    "split": "validation",
+    "version": "step-114",
+    "reward": 0.763,
+    "accepted": false,
+    "reason": "Requested 56 bars per voice; counted acc: 64, cl: 64, bs: 64"
+  },
+  {
+    "promptId": "gK-0188",
+    "split": "validation",
+    "version": "step-114",
+    "reward": 0.544,
+    "accepted": false,
+    "reason": "Requested 48 bars per voice; counted RH: 56, LH: 56"
+  },
+  {
+    "promptId": "gK-0893",
+    "split": "validation",
+    "version": "step-114",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice cl exceeded requested 64 bars (76 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0593",
+    "split": "validation",
+    "version": "step-114",
+    "reward": 0.5720000000000001,
+    "accepted": true,
+    "reason": null
+  },
+  {
+    "promptId": "gK-0042",
+    "split": "validation",
+    "version": "step-114",
+    "reward": 0.561,
+    "accepted": true,
+    "reason": null
+  },
+  {
+    "promptId": "gK-1086",
+    "split": "validation",
+    "version": "step-114",
+    "reward": 0.679,
+    "accepted": true,
+    "reason": null
+  },
+  {
+    "promptId": "gK-0195",
+    "split": "validation",
+    "version": "step-114",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice RH exceeded requested 88 bars (100 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0831",
+    "split": "validation",
+    "version": "step-114",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice RH exceeded requested 72 bars (88 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0450",
+    "split": "validation",
+    "version": "step-114",
+    "reward": 0.713,
+    "accepted": false,
+    "reason": "Requested 40 bars per voice; counted T1: 48, T2: 48, Hn: 48, Tb: 48, Tb2: 48"
+  },
+  {
+    "promptId": "gK-0231",
+    "split": "validation",
+    "version": "step-114",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice RH exceeded requested 88 bars (104 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0749",
+    "split": "validation",
+    "version": "step-114",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice 1 exceeded requested 80 bars (92 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0816",
+    "split": "validation",
+    "version": "step-114",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "No positive verifier reward; Invalid bar durations; Requested 48 bars per voice; counted RH: 56, LH: 56"
+  },
+  {
+    "promptId": "gK-0437",
+    "split": "validation",
+    "version": "step-114",
+    "reward": 0.628,
+    "accepted": false,
+    "reason": "Requested 96 bars per voice; counted 1: 88, 2: 88, 3: 88, 4: 88"
+  },
+  {
+    "promptId": "gK-0801",
+    "split": "validation",
+    "version": "step-114",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice RH exceeded requested 80 bars (96 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0428",
+    "split": "validation",
+    "version": "step-114",
+    "reward": 0.757,
+    "accepted": true,
+    "reason": null
+  },
+  {
+    "promptId": "gK-1074",
+    "split": "validation",
+    "version": "step-114",
+    "reward": 0.746,
+    "accepted": false,
+    "reason": "Requested 48 bars per voice; counted GZ: 48, DQ: 50, PN: 48, ST: 48, BS: 48"
+  },
+  {
+    "promptId": "gK-1156",
+    "split": "validation",
+    "version": "step-114",
+    "reward": 0.679,
+    "accepted": false,
+    "reason": "Invalid bar durations; Requested 32 bars per voice; counted EP: 40, GT: 40, BS: 40, SX: 40, DR: 40"
+  },
+  {
+    "promptId": "gK-0817",
+    "split": "validation",
+    "version": "step-114",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "No positive verifier reward; Invalid bar durations; Requested 88 bars per voice; counted RH: 96, LH: 100"
+  },
+  {
+    "promptId": "gK-1141",
+    "split": "validation",
+    "version": "step-114",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice 1 exceeded requested 96 bars (108 completed bars); aborted invalid generation"
+  },
+  {
+    "promptId": "gK-0832",
+    "split": "validation",
+    "version": "step-114",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "No positive verifier reward; Invalid bar durations; Requested 48 bars per voice; counted RH: 56, LH: 56"
+  },
+  {
+    "promptId": "gK-0907",
+    "split": "validation",
+    "version": "step-114",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "No positive verifier reward; Invalid bar durations; Requested 88 bars per voice; counted G: 88, P: 88, B: 96, R: 96"
+  },
+  {
+    "promptId": "gK-0867",
+    "split": "validation",
+    "version": "step-114",
+    "reward": 0.726,
+    "accepted": false,
+    "reason": "Requested 72 bars per voice; counted cl: 80, ac: 76, bs: 80"
+  },
+  {
+    "promptId": "gK-1027",
+    "split": "validation",
+    "version": "step-114",
+    "reward": 0.726,
+    "accepted": false,
+    "reason": "Requested 64 bars per voice; counted dist: 68, clean: 68, bass: 68, piano: 68, drums: 68"
+  },
+  {
+    "promptId": "gK-1028",
+    "split": "validation",
+    "version": "step-114",
+    "reward": 0.7859999999999999,
+    "accepted": false,
+    "reason": "Requested 48 bars per voice; counted DG: 56, CG: 56, BS: 56, PN: 56, DR: 56"
+  },
+  {
+    "promptId": "gK-1151",
+    "split": "validation",
+    "version": "step-114",
+    "reward": 0.0,
+    "accepted": false,
+    "reason": "Voice SX exceeded requested 80 bars (96 completed bars); aborted invalid generation"
+  }
+]

@@ -1,0 +1,34 @@
+{
+  "run_id": "49355152800c",
+  "artifact_namespace": "grouped-fp8-v8-h100-c64-guard1-epoch-auto-baseline-v6",
+  "validation": [
+    {
+      "checkpoint": "step-0",
+      "count": 105,
+      "mean_reward": 0.08571428571428574,
+      "accepted": 5,
+      "zero_reward": 83
+    },
+    {
+      "checkpoint": "step-38",
+      "count": 105,
+      "mean_reward": 0.1600666666666667,
+      "accepted": 10,
+      "zero_reward": 78
+    },
+    {
+      "checkpoint": "step-76",
+      "count": 105,
+      "mean_reward": 0.19123809523809523,
+      "accepted": 9,
+      "zero_reward": 74
+    },
+    {
+      "checkpoint": "step-114",
+      "count": 105,
+      "mean_reward": 0.2838,
+      "accepted": 16,
+      "zero_reward": 61
+    }
+  ]
+}

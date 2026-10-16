@@ -1,0 +1,17 @@
+Music response distillation
+Copyright 2026 Susindra Reddy
+
+Includes the XiaomiMiMo/verl music scorer from
+https://github.com/XiaomiMiMo/verl
+revision a2ad9f6160b03ff2d47e59832bfb6b289f37c917
+path recipes/design/music/scorer
+Original license: vendor/LICENSE (Apache License 2.0).
+File checksums are retained in vendor/manifest.json.
+
+Source music prompts: XiaomiMiMo/MiMo-V2.6-RL-oss
+revision 639865fd3374018d6cb29b9fb82dd531406fcf5f
+https://huggingface.co/datasets/XiaomiMiMo/MiMo-V2.6-RL-oss
+The source dataset card declares Apache-2.0.
+
+abc2midi is downloaded and built separately from sshlien/abcmidi;
+its source and binary are not distributed in this repository.

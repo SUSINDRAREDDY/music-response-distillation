@@ -1,0 +1,64 @@
+{
+  "model": "Qwen/Qwen3.8-27B",
+  "revision": "1d4bf0f2ff6012fd82039f2fa52739d0dd7c60c0",
+  "wandb_project": "mimo-music",
+  "sft": {
+    "trainer": {
+      "learning_rate": 0.0001,
+      "num_train_epochs": 3,
+      "per_device_train_batch_size": 1,
+      "gradient_accumulation_steps": 16,
+      "per_device_eval_batch_size": 1,
+      "max_length": 16384,
+      "completion_only_loss": true,
+      "pad_to_multiple_of": 8,
+      "bf16": true,
+      "tf32": true,
+      "gradient_checkpointing": true,
+      "gradient_checkpointing_kwargs": {
+        "use_reentrant": false
+      },
+      "adam_beta2": 0.95,
+      "weight_decay": 0.01,
+      "lr_scheduler_type": "cosine",
+      "warmup_steps": 1,
+      "logging_steps": 1,
+      "save_strategy": "epoch",
+      "eval_strategy": "no",
+      "load_best_model_at_end": false,
+      "save_total_limit": 3,
+      "report_to": "wandb",
+      "eos_token": "<|im_end|>",
+      "max_grad_norm": 1.0,
+      "save_only_model": false
+    },
+    "lora": {
+      "r": 16,
+      "lora_alpha": 32,
+      "lora_dropout": 0.05,
+      "task_type": "CAUSAL_LM",
+      "target_modules": [
+        "q_proj",
+        "k_proj",
+        "v_proj",
+        "o_proj",
+        "gate_proj",
+        "up_proj",
+        "down_proj",
+        "in_proj_qkv",
+        "in_proj_z",
+        "in_proj_b",
+        "in_proj_a",
+        "out_proj"
+      ]
+    }
+  },
+  "chat_template_kwargs": {
+    "enable_thinking": false
+  },
+  "quantization": {
+    "load_in_4bit": true,
+    "bnb_4bit_quant_type": "nf4",
+    "bnb_4bit_use_double_quant": true
+  }
+}

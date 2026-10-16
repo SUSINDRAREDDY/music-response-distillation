@@ -1,0 +1,13 @@
+{
+  "repo": "https://github.com/XiaomiMiMo/verl",
+  "revision": "a2ad9f6160b03ff2d47e59832bfb6b289f37c917",
+  "path": "recipes/design/music/scorer",
+  "sha256": {
+    "__init__.py": "9b5e84eee105bc206ed1c452d56b7c1e5bff149f33590c547c85d985319d2c6b",
+    "core.py": "ec2c3f810f2c10699b37a78087eb0e5ad27b9432e4d6422acb510ce85c2d11dc",
+    "feats.py": "829373a34541913d9b675e5e963ec3de641c50baf2e7d7fe6ea57e43fd6d3cc3",
+    "pipeline.py": "6644ab466b74fde06437714a1dc7094d9b0d486fb381a54616fbb82844bf6e0e",
+    "score.py": "8f4198724fe48998a36ea99892342ce43e57655eaa3d6a627bd8741206a25872",
+    "baselines/ref_full4k.json": "afa0ea0d21745aa2f82bb40812e422d3d583165c0d720d268de4ba20cbbc9ed1"
+  }
+}
